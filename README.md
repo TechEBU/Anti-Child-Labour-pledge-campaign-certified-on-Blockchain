@@ -1,5 +1,5 @@
 ## Project:
-A Smart contract on the Cardano blockchain that can help to eliminate Child Labour plaguing Africa.
+A Smart contract on the Cardano blockchain that can help to eliminate Child Labour.
 
 ## Suggested Solution:
 A smart contract solution to be implemented. 
